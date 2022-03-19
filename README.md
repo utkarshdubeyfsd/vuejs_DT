@@ -1,6 +1,6 @@
 # VueJS Data Table Component
 
-Brite Core Exam details
+CRUD operations with VueJS and Bootstrap
 
 ### Output 1: Data Table
 
